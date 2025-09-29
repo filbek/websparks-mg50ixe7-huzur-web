@@ -1,0 +1,172 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "manufacturing": "Manufacturing",
+    "products": "Products",
+    "blog": "Blog",
+    "contact": "Contact",
+    "getQuote": "Get Quote"
+  },
+  "hero": {
+    "title": "Premium Leather",
+    "titleAccent": "Manufacturing",
+    "subtitle": "Turkey's Leading Leather Manufacturer - Crafting exceptional leather jackets, bags, and accessories with traditional techniques and modern innovation. Your trusted partner for premium leather goods.",
+    "exploreProducts": "Explore Products",
+    "viewLookbook": "View Lookbook",
+    "yearsExperience": "Years Experience",
+    "productsMade": "Products Made",
+    "countriesServed": "Countries Served",
+    "turkeyLeader": "Turkey's #1 Leather Manufacturer"
+  },
+  "features": {
+    "title": "Why Choose Huzur Leather?",
+    "subtitle": "We combine traditional craftsmanship with modern manufacturing techniques to deliver exceptional leather products that exceed expectations.",
+    "premiumQuality": {
+      "title": "Premium Quality",
+      "description": "Using only the finest leather materials sourced from trusted suppliers worldwide."
+    },
+    "expertCraftsmanship": {
+      "title": "Expert Craftsmanship",
+      "description": "Skilled artisans with decades of experience in traditional leather working techniques."
+    },
+    "globalShipping": {
+      "title": "Global Shipping",
+      "description": "Worldwide delivery with secure packaging and tracking for all orders."
+    },
+    "customDesigns": {
+      "title": "Custom Designs",
+      "description": "Personalized leather goods tailored to your specific requirements and preferences."
+    },
+    "qualityGuarantee": {
+      "title": "Quality Guarantee",
+      "description": "Comprehensive warranty and quality assurance on all our manufactured products."
+    },
+    "fastProduction": {
+      "title": "Fast Production",
+      "description": "Efficient manufacturing processes ensuring quick turnaround times without compromising quality."
+    }
+  },
+  "products": {
+    "title": "Our Product Range",
+    "subtitle": "Discover our comprehensive collection of premium leather goods, each piece meticulously crafted to meet the highest standards of quality and design.",
+    "leatherJackets": {
+      "title": "Leather Jackets",
+      "description": "Premium leather jackets crafted with precision and style for fashion-forward individuals.",
+      "features": ["Genuine Leather", "Custom Fit", "Multiple Colors"]
+    },
+    "businessBags": {
+      "title": "Business Bags",
+      "description": "Professional leather bags designed for modern business professionals and entrepreneurs.",
+      "features": ["Laptop Compartment", "Durable Design", "Premium Finish"]
+    },
+    "laptopBags": {
+      "title": "Laptop Bags",
+      "description": "Protective and stylish laptop bags for professionals who value both function and form.",
+      "features": ["Padded Protection", "Multiple Pockets", "Ergonomic Design"]
+    },
+    "learnMore": "Learn More",
+    "viewAllProducts": "View All Products"
+  },
+  "footer": {
+    "description": "Leading manufacturer of premium leather jackets, bags, and accessories in Turkey. Crafting excellence since decades with traditional techniques and modern innovation.",
+    "quickLinks": "Quick Links",
+    "products": "Products",
+    "contactInfo": "Contact Info",
+    "address": "Istanbul, Turkey\nLeather Manufacturing District",
+    "poweredBy": "Powered by",
+    "websparksAI": "Websparks AI",
+    "allRightsReserved": "All rights reserved."
+  },
+  "about": {
+    "title": "About Huzur Leather",
+    "subtitle": "For over two decades, we have been at the forefront of leather manufacturing in Turkey, combining traditional craftsmanship with modern innovation to create exceptional leather goods.",
+    "storyTitle": "Our Story",
+    "storyText1": "Founded in Istanbul, Turkey, Huzur Leather began as a small family workshop with a passion for creating beautiful leather goods. Today, we have grown into one of Turkey's leading leather manufacturers, serving clients worldwide while maintaining our commitment to quality and craftsmanship.",
+    "storyText2": "Our journey has been marked by continuous innovation, investment in modern technology, and an unwavering dedication to preserving the traditional techniques that make our products truly exceptional.",
+    "valuesTitle": "Our Values",
+    "valuesSubtitle": "These core values guide everything we do and shape our commitment to excellence.",
+    "passion": {
+      "title": "Passion",
+      "description": "Every piece we create is infused with our passion for leather craftsmanship and attention to detail."
+    },
+    "quality": {
+      "title": "Quality",
+      "description": "We never compromise on quality, using only the finest materials and proven techniques."
+    },
+    "trust": {
+      "title": "Trust",
+      "description": "Building lasting relationships with our clients through transparency and reliability."
+    },
+    "teamTitle": "Our Expert Team",
+    "teamSubtitle": "Meet the skilled professionals who bring decades of experience to every project.",
+    "masterCraftsman": "Master Craftsman",
+    "leadDesigner": "Lead Designer",
+    "qualityManager": "Quality Manager",
+    "qualityAssurance": "Quality Assurance",
+    "productionManager": "Production Manager",
+    "operations": "Operations"
+  },
+  "manufacturing": {
+    "title": "Leather Manufacturing Services",
+    "subtitle": "From concept to completion, we provide comprehensive leather manufacturing services for jackets, bags, and accessories with unmatched quality and precision.",
+    "getQuote": "Get Manufacturing Quote",
+    "solutionsTitle": "Complete Manufacturing Solutions",
+    "solutionsText": "We offer end-to-end manufacturing services for leather goods, from initial design consultation to final product delivery. Our state-of-the-art facility in Turkey combines traditional craftsmanship with modern technology.",
+    "processTitle": "Our Manufacturing Process",
+    "processSubtitle": "Every product goes through our carefully designed 6-step process to ensure exceptional quality and customer satisfaction.",
+    "capabilitiesTitle": "Manufacturing Capabilities",
+    "capabilitiesSubtitle": "Our advanced facility and skilled workforce enable us to handle projects of any scale.",
+    "unitsPerMonth": "Units per Month",
+    "skilledWorkers": "Skilled Workers",
+    "daysLeadTime": "Days Lead Time",
+    "countriesServed": "Countries Served",
+    "ctaTitle": "Ready to Start Your Project?",
+    "ctaSubtitle": "Contact us today to discuss your leather manufacturing needs and get a custom quote.",
+    "requestQuote": "Request Quote",
+    "viewPortfolio": "View Portfolio"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Ready to start your leather manufacturing project? Get in touch with our expert team for personalized consultation and competitive quotes.",
+    "sendMessage": "Send us a Message",
+    "fullName": "Full Name",
+    "emailAddress": "Email Address",
+    "company": "Company",
+    "phoneNumber": "Phone Number",
+    "subject": "Subject",
+    "message": "Message",
+    "sendMessageBtn": "Send Message",
+    "getInTouch": "Get in Touch",
+    "getInTouchText": "We are here to help you with all your leather manufacturing needs. Contact us through any of the following channels.",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "businessHours": "Business Hours",
+    "followUs": "Follow Us",
+    "visitFacility": "Visit Our Facility",
+    "visitFacilityText": "Located in the heart of Istanbul's leather manufacturing district, our facility is equipped with modern machinery and skilled craftsmen."
+  },
+  "blog": {
+    "title": "Leather Manufacturing Blog",
+    "subtitle": "Insights, tips, and stories from the world of leather manufacturing. Stay updated with industry trends and our latest innovations.",
+    "allPosts": "All Posts",
+    "leatherJackets": "Leather Jackets",
+    "leatherBags": "Leather Bags",
+    "laptopBags": "Laptop Bags",
+    "general": "General",
+    "readMore": "Read More",
+    "stayUpdated": "Stay Updated",
+    "stayUpdatedText": "Subscribe to our newsletter for the latest insights on leather manufacturing and industry trends.",
+    "enterEmail": "Enter your email",
+    "subscribe": "Subscribe"
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "viewAll": "View All",
+    "getStarted": "Get Started",
+    "contactUs": "Contact Us",
+    "readMore": "Read More",
+    "viewMore": "View More"
+  }
+}

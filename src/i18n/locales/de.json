@@ -1,0 +1,172 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "manufacturing": "Herstellung",
+    "products": "Produkte",
+    "blog": "Blog",
+    "contact": "Kontakt",
+    "getQuote": "Angebot erhalten"
+  },
+  "hero": {
+    "title": "Premium Leder",
+    "titleAccent": "Herstellung",
+    "subtitle": "Türkeis führender Lederhersteller - Herstellung außergewöhnlicher Lederjacken, Taschen und Accessoires mit traditionellen Techniken und moderner Innovation. Ihr vertrauensvoller Partner für Premium-Lederwaren.",
+    "exploreProducts": "Produkte erkunden",
+    "viewLookbook": "Lookbook ansehen",
+    "yearsExperience": "Jahre Erfahrung",
+    "productsMade": "Hergestellte Produkte",
+    "countriesServed": "Bediente Länder",
+    "turkeyLeader": "Türkeis #1 Lederhersteller"
+  },
+  "features": {
+    "title": "Warum Huzur Leather wählen?",
+    "subtitle": "Wir kombinieren traditionelle Handwerkskunst mit modernen Fertigungstechniken, um außergewöhnliche Lederprodukte zu liefern, die Erwartungen übertreffen.",
+    "premiumQuality": {
+      "title": "Premium-Qualität",
+      "description": "Verwendung nur der feinsten Ledermaterialien von vertrauenswürdigen Lieferanten weltweit."
+    },
+    "expertCraftsmanship": {
+      "title": "Expertenhandwerk",
+      "description": "Erfahrene Handwerker mit jahrzehntelanger Erfahrung in traditionellen Lederverarbeitungstechniken."
+    },
+    "globalShipping": {
+      "title": "Weltweiter Versand",
+      "description": "Weltweite Lieferung mit sicherer Verpackung und Verfolgung für alle Bestellungen."
+    },
+    "customDesigns": {
+      "title": "Individuelle Designs",
+      "description": "Personalisierte Lederwaren, die auf Ihre spezifischen Anforderungen und Vorlieben zugeschnitten sind."
+    },
+    "qualityGuarantee": {
+      "title": "Qualitätsgarantie",
+      "description": "Umfassende Garantie und Qualitätssicherung für alle unsere hergestellten Produkte."
+    },
+    "fastProduction": {
+      "title": "Schnelle Produktion",
+      "description": "Effiziente Fertigungsprozesse gewährleisten schnelle Bearbeitungszeiten ohne Qualitätskompromisse."
+    }
+  },
+  "products": {
+    "title": "Unser Produktsortiment",
+    "subtitle": "Entdecken Sie unsere umfassende Kollektion von Premium-Lederwaren, jedes Stück sorgfältig gefertigt, um höchste Qualitäts- und Designstandards zu erfüllen.",
+    "leatherJackets": {
+      "title": "Lederjacken",
+      "description": "Premium-Lederjacken mit Präzision und Stil für modebewusste Personen gefertigt.",
+      "features": ["Echtes Leder", "Individuelle Passform", "Mehrere Farben"]
+    },
+    "businessBags": {
+      "title": "Business-Taschen",
+      "description": "Professionelle Ledertaschen für moderne Geschäftsleute und Unternehmer.",
+      "features": ["Laptop-Fach", "Langlebiges Design", "Premium-Finish"]
+    },
+    "laptopBags": {
+      "title": "Laptop-Taschen",
+      "description": "Schützende und stilvolle Laptop-Taschen für Profis, die sowohl Funktion als auch Form schätzen.",
+      "features": ["Gepolsterter Schutz", "Mehrere Taschen", "Ergonomisches Design"]
+    },
+    "learnMore": "Mehr erfahren",
+    "viewAllProducts": "Alle Produkte anzeigen"
+  },
+  "footer": {
+    "description": "Führender Hersteller von Premium-Lederjacken, Taschen und Accessoires in der Türkei. Seit Jahrzehnten Exzellenz mit traditionellen Techniken und moderner Innovation.",
+    "quickLinks": "Schnelllinks",
+    "products": "Produkte",
+    "contactInfo": "Kontaktinfo",
+    "address": "Istanbul, Türkei\nLederherstellungsbezirk",
+    "poweredBy": "Unterstützt von",
+    "websparksAI": "Websparks AI",
+    "allRightsReserved": "Alle Rechte vorbehalten."
+  },
+  "about": {
+    "title": "Über Huzur Leather",
+    "subtitle": "Seit über zwei Jahrzehnten stehen wir an der Spitze der Lederherstellung in der Türkei und kombinieren traditionelle Handwerkskunst mit moderner Innovation.",
+    "storyTitle": "Unsere Geschichte",
+    "storyText1": "Huzur Leather wurde in Istanbul, Türkei, als kleine Familienwerkstatt mit einer Leidenschaft für die Herstellung schöner Lederwaren gegründet. Heute sind wir zu einem der führenden Lederhersteller der Türkei gewachsen.",
+    "storyText2": "Unsere Reise war geprägt von kontinuierlicher Innovation, Investitionen in moderne Technologie und einem unerschütterlichen Engagement für die Bewahrung traditioneller Techniken.",
+    "valuesTitle": "Unsere Werte",
+    "valuesSubtitle": "Diese Grundwerte leiten alles, was wir tun, und prägen unser Engagement für Exzellenz.",
+    "passion": {
+      "title": "Leidenschaft",
+      "description": "Jedes Stück, das wir schaffen, ist von unserer Leidenschaft für Lederhandwerk und Liebe zum Detail durchdrungen."
+    },
+    "quality": {
+      "title": "Qualität",
+      "description": "Wir machen niemals Kompromisse bei der Qualität und verwenden nur die besten Materialien und bewährte Techniken."
+    },
+    "trust": {
+      "title": "Vertrauen",
+      "description": "Aufbau dauerhafter Beziehungen zu unseren Kunden durch Transparenz und Zuverlässigkeit."
+    },
+    "teamTitle": "Unser Expertenteam",
+    "teamSubtitle": "Lernen Sie die erfahrenen Fachkräfte kennen, die jahrzehntelange Erfahrung in jedes Projekt einbringen.",
+    "masterCraftsman": "Meisterhandwerker",
+    "leadDesigner": "Leitender Designer",
+    "qualityManager": "Qualitätsmanager",
+    "qualityAssurance": "Qualitätssicherung",
+    "productionManager": "Produktionsleiter",
+    "operations": "Betrieb"
+  },
+  "manufacturing": {
+    "title": "Lederherstellungsdienstleistungen",
+    "subtitle": "Von der Konzeption bis zur Fertigstellung bieten wir umfassende Lederherstellungsdienstleistungen für Jacken, Taschen und Accessoires mit unvergleichlicher Qualität und Präzision.",
+    "getQuote": "Herstellungsangebot erhalten",
+    "solutionsTitle": "Komplette Herstellungslösungen",
+    "solutionsText": "Wir bieten End-to-End-Herstellungsdienstleistungen für Lederwaren, von der ersten Designberatung bis zur finalen Produktlieferung.",
+    "processTitle": "Unser Herstellungsprozess",
+    "processSubtitle": "Jedes Produkt durchläuft unseren sorgfältig gestalteten 6-Stufen-Prozess, um außergewöhnliche Qualität und Kundenzufriedenheit zu gewährleisten.",
+    "capabilitiesTitle": "Herstellungskapazitäten",
+    "capabilitiesSubtitle": "Unsere fortschrittliche Anlage und erfahrene Belegschaft ermöglichen es uns, Projekte jeder Größenordnung zu bewältigen.",
+    "unitsPerMonth": "Einheiten pro Monat",
+    "skilledWorkers": "Erfahrene Arbeiter",
+    "daysLeadTime": "Tage Vorlaufzeit",
+    "countriesServed": "Bediente Länder",
+    "ctaTitle": "Bereit, Ihr Projekt zu starten?",
+    "ctaSubtitle": "Kontaktieren Sie uns heute, um Ihre Lederherstellungsbedürfnisse zu besprechen und ein individuelles Angebot zu erhalten.",
+    "requestQuote": "Angebot anfordern",
+    "viewPortfolio": "Portfolio ansehen"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Bereit, Ihr Lederherstellungsprojekt zu starten? Nehmen Sie Kontakt mit unserem Expertenteam für persönliche Beratung und wettbewerbsfähige Angebote auf.",
+    "sendMessage": "Senden Sie uns eine Nachricht",
+    "fullName": "Vollständiger Name",
+    "emailAddress": "E-Mail-Adresse",
+    "company": "Unternehmen",
+    "phoneNumber": "Telefonnummer",
+    "subject": "Betreff",
+    "message": "Nachricht",
+    "sendMessageBtn": "Nachricht senden",
+    "getInTouch": "Kontakt aufnehmen",
+    "getInTouchText": "Wir sind hier, um Ihnen bei allen Ihren Lederherstellungsbedürfnissen zu helfen. Kontaktieren Sie uns über einen der folgenden Kanäle.",
+    "address": "Adresse",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "businessHours": "Geschäftszeiten",
+    "followUs": "Folgen Sie uns",
+    "visitFacility": "Besuchen Sie unsere Anlage",
+    "visitFacilityText": "Im Herzen von Istanbuls Lederherstellungsbezirk gelegen, ist unsere Anlage mit modernen Maschinen und erfahrenen Handwerkern ausgestattet."
+  },
+  "blog": {
+    "title": "Lederherstellungs-Blog",
+    "subtitle": "Einblicke, Tipps und Geschichten aus der Welt der Lederherstellung. Bleiben Sie auf dem Laufenden über Branchentrends und unsere neuesten Innovationen.",
+    "allPosts": "Alle Beiträge",
+    "leatherJackets": "Lederjacken",
+    "leatherBags": "Ledertaschen",
+    "laptopBags": "Laptop-Taschen",
+    "general": "Allgemein",
+    "readMore": "Mehr lesen",
+    "stayUpdated": "Bleiben Sie auf dem Laufenden",
+    "stayUpdatedText": "Abonnieren Sie unseren Newsletter für die neuesten Einblicke in die Lederherstellung und Branchentrends.",
+    "enterEmail": "E-Mail eingeben",
+    "subscribe": "Abonnieren"
+  },
+  "common": {
+    "learnMore": "Mehr erfahren",
+    "viewAll": "Alle anzeigen",
+    "getStarted": "Loslegen",
+    "contactUs": "Kontakt",
+    "readMore": "Mehr lesen",
+    "viewMore": "Mehr anzeigen"
+  }
+}

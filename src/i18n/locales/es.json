@@ -1,0 +1,172 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "manufacturing": "Fabricación",
+    "products": "Productos",
+    "blog": "Blog",
+    "contact": "Contacto",
+    "getQuote": "Obtener Cotización"
+  },
+  "hero": {
+    "title": "Fabricación de Cuero",
+    "titleAccent": "Premium",
+    "subtitle": "El Fabricante Líder de Cuero de Turquía - Creando chaquetas de cuero, bolsos y accesorios excepcionales con técnicas tradicionales e innovación moderna. Su socio de confianza para productos de cuero premium.",
+    "exploreProducts": "Explorar Productos",
+    "viewLookbook": "Ver Catálogo",
+    "yearsExperience": "Años de Experiencia",
+    "productsMade": "Productos Fabricados",
+    "countriesServed": "Países Atendidos",
+    "turkeyLeader": "Fabricante de Cuero #1 de Turquía"
+  },
+  "features": {
+    "title": "¿Por qué elegir Huzur Leather?",
+    "subtitle": "Combinamos la artesanía tradicional con técnicas de fabricación modernas para entregar productos de cuero excepcionales que superan las expectativas.",
+    "premiumQuality": {
+      "title": "Calidad Premium",
+      "description": "Utilizando solo los mejores materiales de cuero de proveedores confiables en todo el mundo."
+    },
+    "expertCraftsmanship": {
+      "title": "Artesanía Experta",
+      "description": "Artesanos hábiles con décadas de experiencia en técnicas tradicionales de trabajo del cuero."
+    },
+    "globalShipping": {
+      "title": "Envío Global",
+      "description": "Entrega mundial con embalaje seguro y seguimiento para todos los pedidos."
+    },
+    "customDesigns": {
+      "title": "Diseños Personalizados",
+      "description": "Productos de cuero personalizados adaptados a sus requisitos y preferencias específicas."
+    },
+    "qualityGuarantee": {
+      "title": "Garantía de Calidad",
+      "description": "Garantía integral y aseguramiento de calidad en todos nuestros productos fabricados."
+    },
+    "fastProduction": {
+      "title": "Producción Rápida",
+      "description": "Procesos de fabricación eficientes que aseguran tiempos de entrega rápidos sin comprometer la calidad."
+    }
+  },
+  "products": {
+    "title": "Nuestra Gama de Productos",
+    "subtitle": "Descubra nuestra colección integral de productos de cuero premium, cada pieza meticulosamente elaborada para cumplir con los más altos estándares de calidad y diseño.",
+    "leatherJackets": {
+      "title": "Chaquetas de Cuero",
+      "description": "Chaquetas de cuero premium elaboradas con precisión y estilo para individuos vanguardistas.",
+      "features": ["Cuero Genuino", "Ajuste Personalizado", "Múltiples Colores"]
+    },
+    "businessBags": {
+      "title": "Bolsos de Negocios",
+      "description": "Bolsos de cuero profesionales diseñados para profesionales de negocios modernos y emprendedores.",
+      "features": ["Compartimento para Laptop", "Diseño Duradero", "Acabado Premium"]
+    },
+    "laptopBags": {
+      "title": "Bolsos para Laptop",
+      "description": "Bolsos para laptop protectores y elegantes para profesionales que valoran tanto la función como la forma.",
+      "features": ["Protección Acolchada", "Múltiples Bolsillos", "Diseño Ergonómico"]
+    },
+    "learnMore": "Saber Más",
+    "viewAllProducts": "Ver Todos los Productos"
+  },
+  "footer": {
+    "description": "Fabricante líder de chaquetas de cuero, bolsos y accesorios premium en Turquía. Creando excelencia desde hace décadas con técnicas tradicionales e innovación moderna.",
+    "quickLinks": "Enlaces Rápidos",
+    "products": "Productos",
+    "contactInfo": "Información de Contacto",
+    "address": "Estambul, Turquía\nDistrito de Fabricación de Cuero",
+    "poweredBy": "Desarrollado por",
+    "websparksAI": "Websparks AI",
+    "allRightsReserved": "Todos los derechos reservados."
+  },
+  "about": {
+    "title": "Acerca de Huzur Leather",
+    "subtitle": "Durante más de dos décadas, hemos estado a la vanguardia de la fabricación de cuero en Turquía, combinando la artesanía tradicional con la innovación moderna.",
+    "storyTitle": "Nuestra Historia",
+    "storyText1": "Fundada en Estambul, Turquía, Huzur Leather comenzó como un pequeño taller familiar con una pasión por crear hermosos productos de cuero. Hoy, hemos crecido hasta convertirnos en uno de los principales fabricantes de cuero de Turquía.",
+    "storyText2": "Nuestro viaje ha estado marcado por la innovación continua, la inversión en tecnología moderna y una dedicación inquebrantable a preservar las técnicas tradicionales.",
+    "valuesTitle": "Nuestros Valores",
+    "valuesSubtitle": "Estos valores fundamentales guían todo lo que hacemos y dan forma a nuestro compromiso con la excelencia.",
+    "passion": {
+      "title": "Pasión",
+      "description": "Cada pieza que creamos está imbuida de nuestra pasión por la artesanía del cuero y la atención al detalle."
+    },
+    "quality": {
+      "title": "Calidad",
+      "description": "Nunca comprometemos la calidad, utilizando solo los mejores materiales y técnicas probadas."
+    },
+    "trust": {
+      "title": "Confianza",
+      "description": "Construyendo relaciones duraderas con nuestros clientes a través de la transparencia y la confiabilidad."
+    },
+    "teamTitle": "Nuestro Equipo Experto",
+    "teamSubtitle": "Conozca a los profesionales hábiles que aportan décadas de experiencia a cada proyecto.",
+    "masterCraftsman": "Maestro Artesano",
+    "leadDesigner": "Diseñador Principal",
+    "qualityManager": "Gerente de Calidad",
+    "qualityAssurance": "Aseguramiento de Calidad",
+    "productionManager": "Gerente de Producción",
+    "operations": "Operaciones"
+  },
+  "manufacturing": {
+    "title": "Servicios de Fabricación de Cuero",
+    "subtitle": "Desde el concepto hasta la finalización, proporcionamos servicios integrales de fabricación de cuero para chaquetas, bolsos y accesorios con calidad y precisión incomparables.",
+    "getQuote": "Obtener Cotización de Fabricación",
+    "solutionsTitle": "Soluciones de Fabricación Completas",
+    "solutionsText": "Ofrecemos servicios de fabricación de extremo a extremo para productos de cuero, desde la consulta de diseño inicial hasta la entrega del producto final.",
+    "processTitle": "Nuestro Proceso de Fabricación",
+    "processSubtitle": "Cada producto pasa por nuestro proceso de 6 pasos cuidadosamente diseñado para asegurar calidad excepcional y satisfacción del cliente.",
+    "capabilitiesTitle": "Capacidades de Fabricación",
+    "capabilitiesSubtitle": "Nuestra instalación avanzada y fuerza laboral hábil nos permiten manejar proyectos de cualquier escala.",
+    "unitsPerMonth": "Unidades por Mes",
+    "skilledWorkers": "Trabajadores Hábiles",
+    "daysLeadTime": "Días de Tiempo de Entrega",
+    "countriesServed": "Países Atendidos",
+    "ctaTitle": "¿Listo para Comenzar su Proyecto?",
+    "ctaSubtitle": "Contáctenos hoy para discutir sus necesidades de fabricación de cuero y obtener una cotización personalizada.",
+    "requestQuote": "Solicitar Cotización",
+    "viewPortfolio": "Ver Portafolio"
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "¿Listo para comenzar su proyecto de fabricación de cuero? Póngase en contacto con nuestro equipo experto para consulta personalizada y cotizaciones competitivas.",
+    "sendMessage": "Envíanos un Mensaje",
+    "fullName": "Nombre Completo",
+    "emailAddress": "Dirección de Correo",
+    "company": "Empresa",
+    "phoneNumber": "Número de Teléfono",
+    "subject": "Asunto",
+    "message": "Mensaje",
+    "sendMessageBtn": "Enviar Mensaje",
+    "getInTouch": "Ponerse en Contacto",
+    "getInTouchText": "Estamos aquí para ayudarle con todas sus necesidades de fabricación de cuero. Contáctenos a través de cualquiera de los siguientes canales.",
+    "address": "Dirección",
+    "phone": "Teléfono",
+    "email": "Correo",
+    "businessHours": "Horario Comercial",
+    "followUs": "Síguenos",
+    "visitFacility": "Visite Nuestras Instalaciones",
+    "visitFacilityText": "Ubicada en el corazón del distrito de fabricación de cuero de Estambul, nuestra instalación está equipada con maquinaria moderna y artesanos hábiles."
+  },
+  "blog": {
+    "title": "Blog de Fabricación de Cuero",
+    "subtitle": "Perspectivas, consejos e historias del mundo de la fabricación de cuero. Manténgase actualizado con las tendencias de la industria y nuestras últimas innovaciones.",
+    "allPosts": "Todas las Publicaciones",
+    "leatherJackets": "Chaquetas de Cuero",
+    "leatherBags": "Bolsos de Cuero",
+    "laptopBags": "Bolsos para Laptop",
+    "general": "General",
+    "readMore": "Leer Más",
+    "stayUpdated": "Manténgase Actualizado",
+    "stayUpdatedText": "Suscríbase a nuestro boletín para las últimas perspectivas sobre fabricación de cuero y tendencias de la industria.",
+    "enterEmail": "Ingrese su correo",
+    "subscribe": "Suscribirse"
+  },
+  "common": {
+    "learnMore": "Saber Más",
+    "viewAll": "Ver Todo",
+    "getStarted": "Comenzar",
+    "contactUs": "Contáctanos",
+    "readMore": "Leer Más",
+    "viewMore": "Ver Más"
+  }
+}

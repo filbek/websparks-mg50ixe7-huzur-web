@@ -1,0 +1,172 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "manufacturing": "Fabrication",
+    "products": "Produits",
+    "blog": "Blog",
+    "contact": "Contact",
+    "getQuote": "Obtenir un Devis"
+  },
+  "hero": {
+    "title": "Fabrication de Cuir",
+    "titleAccent": "Premium",
+    "subtitle": "Le Principal Fabricant de Cuir de Turquie - Créant des vestes en cuir, sacs et accessoires exceptionnels avec des techniques traditionnelles et une innovation moderne. Votre partenaire de confiance pour les produits en cuir premium.",
+    "exploreProducts": "Explorer les Produits",
+    "viewLookbook": "Voir le Catalogue",
+    "yearsExperience": "Années d'Expérience",
+    "productsMade": "Produits Fabriqués",
+    "countriesServed": "Pays Servis",
+    "turkeyLeader": "Fabricant de Cuir #1 de Turquie"
+  },
+  "features": {
+    "title": "Pourquoi choisir Huzur Leather ?",
+    "subtitle": "Nous combinons l'artisanat traditionnel avec des techniques de fabrication modernes pour livrer des produits en cuir exceptionnels qui dépassent les attentes.",
+    "premiumQuality": {
+      "title": "Qualité Premium",
+      "description": "Utilisant uniquement les meilleurs matériaux en cuir de fournisseurs de confiance dans le monde entier."
+    },
+    "expertCraftsmanship": {
+      "title": "Artisanat Expert",
+      "description": "Artisans qualifiés avec des décennies d'expérience dans les techniques traditionnelles de travail du cuir."
+    },
+    "globalShipping": {
+      "title": "Expédition Mondiale",
+      "description": "Livraison mondiale avec emballage sécurisé et suivi pour toutes les commandes."
+    },
+    "customDesigns": {
+      "title": "Designs Personnalisés",
+      "description": "Produits en cuir personnalisés adaptés à vos exigences et préférences spécifiques."
+    },
+    "qualityGuarantee": {
+      "title": "Garantie Qualité",
+      "description": "Garantie complète et assurance qualité sur tous nos produits fabriqués."
+    },
+    "fastProduction": {
+      "title": "Production Rapide",
+      "description": "Processus de fabrication efficaces assurant des délais rapides sans compromettre la qualité."
+    }
+  },
+  "products": {
+    "title": "Notre Gamme de Produits",
+    "subtitle": "Découvrez notre collection complète de produits en cuir premium, chaque pièce méticuleusement conçue pour répondre aux plus hauts standards de qualité et de design.",
+    "leatherJackets": {
+      "title": "Vestes en Cuir",
+      "description": "Vestes en cuir premium conçues avec précision et style pour les individus avant-gardistes.",
+      "features": ["Cuir Véritable", "Coupe Personnalisée", "Couleurs Multiples"]
+    },
+    "businessBags": {
+      "title": "Sacs d'Affaires",
+      "description": "Sacs en cuir professionnels conçus pour les professionnels d'affaires modernes et les entrepreneurs.",
+      "features": ["Compartiment Laptop", "Design Durable", "Finition Premium"]
+    },
+    "laptopBags": {
+      "title": "Sacs pour Laptop",
+      "description": "Sacs pour laptop protecteurs et élégants pour les professionnels qui valorisent à la fois la fonction et la forme.",
+      "features": ["Protection Rembourrée", "Poches Multiples", "Design Ergonomique"]
+    },
+    "learnMore": "En Savoir Plus",
+    "viewAllProducts": "Voir Tous les Produits"
+  },
+  "footer": {
+    "description": "Fabricant leader de vestes en cuir, sacs et accessoires premium en Turquie. Créant l'excellence depuis des décennies avec des techniques traditionnelles et une innovation moderne.",
+    "quickLinks": "Liens Rapides",
+    "products": "Produits",
+    "contactInfo": "Informations de Contact",
+    "address": "Istanbul, Turquie\nDistrict de Fabrication de Cuir",
+    "poweredBy": "Alimenté par",
+    "websparksAI": "Websparks AI",
+    "allRightsReserved": "Tous droits réservés."
+  },
+  "about": {
+    "title": "À propos de Huzur Leather",
+    "subtitle": "Depuis plus de deux décennies, nous sommes à l'avant-garde de la fabrication de cuir en Turquie, combinant l'artisanat traditionnel avec l'innovation moderne.",
+    "storyTitle": "Notre Histoire",
+    "storyText1": "Fondée à Istanbul, Turquie, Huzur Leather a commencé comme un petit atelier familial avec une passion pour créer de beaux produits en cuir. Aujourd'hui, nous sommes devenus l'un des principaux fabricants de cuir de Turquie.",
+    "storyText2": "Notre parcours a été marqué par l'innovation continue, l'investissement dans la technologie moderne et un dévouement inébranlable à préserver les techniques traditionnelles.",
+    "valuesTitle": "Nos Valeurs",
+    "valuesSubtitle": "Ces valeurs fondamentales guident tout ce que nous faisons et façonnent notre engagement envers l'excellence.",
+    "passion": {
+      "title": "Passion",
+      "description": "Chaque pièce que nous créons est imprégnée de notre passion pour l'artisanat du cuir et l'attention aux détails."
+    },
+    "quality": {
+      "title": "Qualité",
+      "description": "Nous ne faisons jamais de compromis sur la qualité, utilisant uniquement les meilleurs matériaux et techniques éprouvées."
+    },
+    "trust": {
+      "title": "Confiance",
+      "description": "Construire des relations durables avec nos clients grâce à la transparence et la fiabilité."
+    },
+    "teamTitle": "Notre Équipe d'Experts",
+    "teamSubtitle": "Rencontrez les professionnels qualifiés qui apportent des décennies d'expérience à chaque projet.",
+    "masterCraftsman": "Maître Artisan",
+    "leadDesigner": "Designer Principal",
+    "qualityManager": "Gestionnaire Qualité",
+    "qualityAssurance": "Assurance Qualité",
+    "productionManager": "Gestionnaire de Production",
+    "operations": "Opérations"
+  },
+  "manufacturing": {
+    "title": "Services de Fabrication de Cuir",
+    "subtitle": "Du concept à l'achèvement, nous fournissons des services complets de fabrication de cuir pour vestes, sacs et accessoires avec une qualité et précision inégalées.",
+    "getQuote": "Obtenir un Devis de Fabrication",
+    "solutionsTitle": "Solutions de Fabrication Complètes",
+    "solutionsText": "Nous offrons des services de fabrication de bout en bout pour les produits en cuir, de la consultation de design initiale à la livraison du produit final.",
+    "processTitle": "Notre Processus de Fabrication",
+    "processSubtitle": "Chaque produit passe par notre processus en 6 étapes soigneusement conçu pour assurer une qualité exceptionnelle et la satisfaction du client.",
+    "capabilitiesTitle": "Capacités de Fabrication",
+    "capabilitiesSubtitle": "Notre installation avancée et notre main-d'œuvre qualifiée nous permettent de gérer des projets de toute envergure.",
+    "unitsPerMonth": "Unités par Mois",
+    "skilledWorkers": "Travailleurs Qualifiés",
+    "daysLeadTime": "Jours de Délai",
+    "countriesServed": "Pays Servis",
+    "ctaTitle": "Prêt à Commencer Votre Projet ?",
+    "ctaSubtitle": "Contactez-nous aujourd'hui pour discuter de vos besoins de fabrication de cuir et obtenir un devis personnalisé.",
+    "requestQuote": "Demander un Devis",
+    "viewPortfolio": "Voir le Portfolio"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Prêt à commencer votre projet de fabrication de cuir ? Contactez notre équipe d'experts pour une consultation personnalisée et des devis compétitifs.",
+    "sendMessage": "Envoyez-nous un Message",
+    "fullName": "Nom Complet",
+    "emailAddress": "Adresse Email",
+    "company": "Entreprise",
+    "phoneNumber": "Numéro de Téléphone",
+    "subject": "Sujet",
+    "message": "Message",
+    "sendMessageBtn": "Envoyer le Message",
+    "getInTouch": "Entrer en Contact",
+    "getInTouchText": "Nous sommes là pour vous aider avec tous vos besoins de fabrication de cuir. Contactez-nous par l'un des canaux suivants.",
+    "address": "Adresse",
+    "phone": "Téléphone",
+    "email": "Email",
+    "businessHours": "Heures d'Ouverture",
+    "followUs": "Suivez-nous",
+    "visitFacility": "Visitez Nos Installations",
+    "visitFacilityText": "Située au cœur du district de fabrication de cuir d'Istanbul, notre installation est équipée de machines modernes et d'artisans qualifiés."
+  },
+  "blog": {
+    "title": "Blog de Fabrication de Cuir",
+    "subtitle": "Aperçus, conseils et histoires du monde de la fabrication de cuir. Restez à jour avec les tendances de l'industrie et nos dernières innovations.",
+    "allPosts": "Tous les Articles",
+    "leatherJackets": "Vestes en Cuir",
+    "leatherBags": "Sacs en Cuir",
+    "laptopBags": "Sacs pour Laptop",
+    "general": "Général",
+    "readMore": "Lire Plus",
+    "stayUpdated": "Restez à Jour",
+    "stayUpdatedText": "Abonnez-vous à notre newsletter pour les derniers aperçus sur la fabrication de cuir et les tendances de l'industrie.",
+    "enterEmail": "Entrez votre email",
+    "subscribe": "S'abonner"
+  },
+  "common": {
+    "learnMore": "En Savoir Plus",
+    "viewAll": "Voir Tout",
+    "getStarted": "Commencer",
+    "contactUs": "Contactez-nous",
+    "readMore": "Lire Plus",
+    "viewMore": "Voir Plus"
+  }
+}
